@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 750 500" style="enable-background:new 0 0 750 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:url(#SVGID_1_);}
+	.st2{display:inline;opacity:0.35;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#F0F0F0;}
+	.st5{fill:#E1E1E1;}
+	.st6{fill:#D2D2D2;}
+	.st7{fill:#C4C4C4;}
+	.st8{fill:#B5B5B5;}
+	.st9{fill:#A6A6A6;}
+	.st10{fill:#979797;}
+	.st11{fill:#888888;}
+	.st12{fill:#797979;}
+	.st13{fill:#6A6A6A;}
+	.st14{fill:#5B5B5B;}
+	.st15{fill:#4D4D4D;}
+	.st16{fill:#3E3E3E;}
+	.st17{fill:#2F2F2F;}
+	.st18{fill:#202020;}
+	.st19{fill:#111111;}
+	.st20{display:none;fill:#000070;}
+	.st21{display:none;clip-path:url(#SVGID_3_);}
+	.st22{display:inline;opacity:0.74;fill:url(#SVGID_4_);}
+	.st23{display:inline;opacity:0.74;fill:url(#SVGID_5_);}
+	.st24{display:inline;opacity:0.74;fill:url(#SVGID_6_);}
+	.st25{display:inline;opacity:0.74;fill:url(#SVGID_7_);}
+	.st26{display:inline;opacity:0.74;fill:url(#SVGID_8_);}
+	.st27{display:inline;opacity:0.74;fill:url(#SVGID_9_);}
+	.st28{clip-path:url(#SVGID_3_);}
+	.st29{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st30{clip-path:url(#SVGID_11_);}
+	.st31{clip-path:url(#SVGID_13_);}
+	.st32{display:inline;fill:#FFFFFF;}
+	.st33{font-family:'Montserrat-Bold';}
+	.st34{font-size:9px;}
+	.st35{display:inline;}
+	.st36{font-size:7px;}
+	.st37{font-family:'Montserrat-Regular';}
+	.st38{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st39{font-size:22px;}
+	.st40{fill:none;}
+	.st41{fill:#212121;}
+	.st42{font-family:'Montserrat-Medium';}
+	.st43{clip-path:url(#SVGID_15_);}
+	.st44{clip-path:url(#SVGID_17_);}
+	.st45{clip-path:url(#SVGID_19_);}
+	.st46{clip-path:url(#SVGID_21_);}
+</style>
+<g id="BACKGROUND" class="st0">
+	<radialGradient id="SVGID_1_" cx="389.5298" cy="499" r="499.3614" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#670C94"/>
+		<stop  offset="1" style="stop-color:#430065"/>
+	</radialGradient>
+	<rect class="st1" width="750" height="500"/>
+	<g id="Shadow" class="st2">
+		<path class="st3" d="M86.5,414.6V83.4c0-10.8,8.8-19.6,19.6-17.6H644c10.8-2,19.6,6.8,19.6,17.6v331.1c0,10.8-8.8,19.6-19.6,19.6
+			H106.1C95.3,434.2,86.5,425.4,86.5,414.6z"/>
+		<path class="st4" d="M86.3,414.6V82.7c0-10.4,8.4-18.8,18.8-16.9h539.1c10.4-1.9,18.8,6.5,18.8,16.9v331.9
+			c0,10.4-8.4,18.8-18.8,18.8H105.1C94.7,433.4,86.3,425,86.3,414.6z"/>
+		<path class="st5" d="M86.1,414.7V82c0-9.9,8-18,18-16.2h540.3c9.9-1.8,18,6.3,18,16.2v332.7c0,9.9-8,18-18,18H104.1
+			C94.1,432.7,86.1,424.6,86.1,414.7z"/>
+		<path class="st6" d="M85.9,414.7V81.3c0-9.5,7.7-17.1,17.1-15.5h541.5c9.5-1.6,17.1,6,17.1,15.5v333.5c0,9.5-7.7,17.1-17.1,17.1
+			H103C93.6,431.9,85.9,424.2,85.9,414.7z"/>
+		<path class="st7" d="M85.7,414.8V80.6c0-9,7.3-16.3,16.3-14.8h542.7c9-1.5,16.3,5.8,16.3,14.8v334.2c0,9-7.3,16.3-16.3,16.3H102
+			C93,431.1,85.7,423.8,85.7,414.8z"/>
+		<path class="st8" d="M85.5,414.9v-335c0-8.5,6.9-15.5,15.5-14.1h543.9c8.5-1.4,15.5,5.6,15.5,14.1v335c0,8.5-6.9,15.5-15.5,15.5
+			H101C92.4,430.3,85.5,423.4,85.5,414.9z"/>
+		<path class="st9" d="M85.3,414.9V79.1c0-8.1,6.6-14.6,14.6-13.4h545.2c8.1-1.3,14.6,5.3,14.6,13.4v335.8c0,8.1-6.6,14.6-14.6,14.6
+			H99.9C91.9,429.6,85.3,423,85.3,414.9z"/>
+		<path class="st10" d="M85.1,415V78.4c0-7.6,6.2-13.8,13.8-12.7h546.4c7.6-1.1,13.8,5.1,13.8,12.7V415c0,7.6-6.2,13.8-13.8,13.8
+			H98.9C91.3,428.8,85.1,422.6,85.1,415z"/>
+		<path class="st11" d="M84.9,415.1V77.7c0-7.2,5.8-13,13-12h547.6c7.2-1,13,4.8,13,12v337.4c0,7.2-5.8,13-13,13H97.9
+			C90.7,428,84.9,422.2,84.9,415.1z"/>
+		<path class="st12" d="M84.7,415.1V77c0-6.7,5.4-12.1,12.1-11.3h548.8c6.7-0.9,12.1,4.6,12.1,11.3v338.1c0,6.7-5.4,12.1-12.1,12.1
+			H96.9C90.2,427.3,84.7,421.8,84.7,415.1z"/>
+		<path class="st13" d="M84.5,415.2V76.3c0-6.2,5.1-11.3,11.3-10.5h550c6.2-0.8,11.3,4.3,11.3,10.5v338.9c0,6.2-5.1,11.3-11.3,11.3
+			h-550C89.6,426.5,84.5,421.4,84.5,415.2z"/>
+		<path class="st14" d="M84.3,415.2V75.5c0-5.8,4.7-10.5,10.5-9.8H646c5.8-0.6,10.5,4.1,10.5,9.8v339.7c0,5.8-4.7,10.5-10.5,10.5
+			H94.8C89,425.7,84.3,421,84.3,415.2z"/>
+		<path class="st15" d="M84.1,415.3V74.8c0-5.3,4.3-9.6,9.6-9.1h552.5c5.3-0.5,9.6,3.8,9.6,9.1v340.5c0,5.3-4.3,9.6-9.6,9.6H93.8
+			C88.5,424.9,84.1,420.6,84.1,415.3z"/>
+		<path class="st16" d="M84,415.4V74.1c0-4.9,3.9-8.8,8.8-8.4h553.7c4.9-0.4,8.8,3.6,8.8,8.4v341.3c0,4.9-3.9,8.8-8.8,8.8H92.7
+			C87.9,424.2,84,420.2,84,415.4z"/>
+		<path class="st17" d="M83.8,415.4v-342c0-4.4,3.6-8,8-7.7h554.9c4.4-0.3,8,3.3,8,7.7v342c0,4.4-3.6,8-8,8H91.7
+			C87.3,423.4,83.8,419.8,83.8,415.4z"/>
+		<path class="st18" d="M83.6,415.5V72.7c0-3.9,3.2-7.1,7.1-7h556.1c3.9-0.1,7.1,3.1,7.1,7v342.8c0,3.9-3.2,7.1-7.1,7.1H90.7
+			C86.8,422.6,83.6,419.4,83.6,415.5z"/>
+		<path class="st19" d="M647,421.9H89.7c-3.5,0-6.3-2.8-6.3-6.3V72c0-3.5,2.8-6.3,6.3-6.3H647c3.5,0,6.3,2.8,6.3,6.3v343.6
+			C653.3,419,650.5,421.9,647,421.9z"/>
+	</g>
+</g>
+<g id="OBJECTS">
+	<g>
+		<g>
+			<path class="st20" d="M741.7,500H8.3c-4.6,0-8.3-4-8.3-8.8V8.8C0,4,3.7,0,8.3,0h733.4c4.6,0,8.3,4,8.3,8.8v482.3
+				C750,496,746.3,500,741.7,500z"/>
+			<g>
+				<defs>
+					<path id="SVGID_2_" d="M647,421.9H89.7c-3.5,0-6.3-2.8-6.3-6.3V72c0-3.5,2.8-6.3,6.3-6.3H647c3.5,0,6.3,2.8,6.3,6.3v343.6
+						C653.3,419,650.5,421.9,647,421.9z"/>
+				</defs>
+				<clipPath id="SVGID_3_">
+					<use xlink:href="#SVGID_2_"  style="display:none;overflow:visible;"/>
+				</clipPath>
+				<g class="st21">
+					<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="460.5453" y1="174.5825" x2="606.1294" y2="318.3159">
+						<stop  offset="0" style="stop-color:#651FFF"/>
+						<stop  offset="1" style="stop-color:#000000"/>
+					</linearGradient>
+					<path class="st22" d="M658.4,127.2c0.7,43.2-8.7,116.2-124.4,124.4c-94.6,6.7-156.7,43.6-172.1,105.6
+						c-13.3,53.6,23.1,138.2,158,134.2c139.1-4.1,182.9-148.2,169.3-201.9c-13.7-53.7,2.8-127.4,68.5-128.5
+						c31.2-0.5,11.5-33.4-19.1-54.9C704.9,82.3,657.5,64,658.4,127.2z"/>
+					<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="487.0862" y1="196.0165" x2="517.5635" y2="68.689">
+						<stop  offset="0" style="stop-color:#4064FF"/>
+						<stop  offset="1" style="stop-color:#000000"/>
+					</linearGradient>
+					<path class="st23" d="M388.1-27.1C364.3,5.2,355.1,128,443.2,171.4c88,43.3,207.2,3.7,227.6-85.3C691.1-3,614.5,63,562.4,8.8
+						S433.9-89.4,388.1-27.1z"/>
+					<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="367.3742" y1="217.3269" x2="712.0266" y2="226.3571">
+						<stop  offset="0" style="stop-color:#4064FF"/>
+						<stop  offset="1" style="stop-color:#000000"/>
+					</linearGradient>
+					<path class="st24" d="M477.9,25.7c-13.7,41.1,45.3,86-23.3,150.7c-43.9,41.4-79.4,116-16.5,198s163.5,97.3,282.5,74.3
+						s-71-93-21-216s2.3-187-78.8-222C539.5-24.3,493.2-20.3,477.9,25.7z"/>
+					<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="484.2617" y1="286.1151" x2="490.2616" y2="465.1153">
+						<stop  offset="0" style="stop-color:#D500F9"/>
+						<stop  offset="1" style="stop-color:#000000"/>
+					</linearGradient>
+					<path class="st25" d="M731.6,301.9c-56.4-8.6-94.1,139.3-265.5,51.6c-105.3-53.8-185.3-22.9-230.9,13
+						c-65.6,51.5-104.4,151.3-80.2,255.2S329.6,564,396.4,505.5c66.8-58.5,216.5-21.6,280-13c28.4,3.9,102.3,17.2,131.5-20.6
+						C879.4,379.3,788.4,310.5,731.6,301.9z"/>
+					<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="209.2492" y1="353.4181" x2="211.9159" y2="443.418">
+						<stop  offset="0" style="stop-color:#448AFF"/>
+						<stop  offset="1" style="stop-color:#000000"/>
+					</linearGradient>
+					<path class="st26" d="M61.6,386.4c38.8-25.2,120.7-36.7,202-12c81.3,24.7,144.4,84,163.2,159.3C445.6,609,293.6,459,216.9,529
+						S6.9,577.7,0.3,501.5C-3.5,459,32.9,405,61.6,386.4z"/>
+					<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="471.6531" y1="278.0155" x2="502.6531" y2="30.0152">
+						<stop  offset="0" style="stop-color:#D500F9"/>
+						<stop  offset="1" style="stop-color:#000000"/>
+					</linearGradient>
+					<path class="st27" d="M267.5,11c8,61,35,191,215,119s236,73,236,73V21L267.5,11z"/>
+				</g>
+				<g class="st28">
+					<circle class="st29" cx="240.5" cy="160.9" r="5.1"/>
+					<circle class="st29" cx="390.1" cy="169.4" r="4.3"/>
+					<circle class="st29" cx="390.1" cy="251.6" r="5.1"/>
+					<circle class="st29" cx="150.5" cy="426.2" r="5.1"/>
+					<circle class="st29" cx="301.5" cy="369.2" r="5.1"/>
+					<path class="st29" d="M272.3,131.3c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1
+						c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1c3.4,0,3.4,5.1,6.9,5.1"/>
+					<path class="st29" d="M398.4,301.7c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1
+						c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1s3.4,5.1,6.9,5.1"/>
+					<path class="st29" d="M205.9,408.7c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1
+						c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1c3.4,0,3.4,5.1,6.9,5.1"/>
+					<g>
+						<line class="st29" x1="319.7" y1="198.8" x2="326.2" y2="205.3"/>
+						<line class="st29" x1="319.7" y1="205.3" x2="326.2" y2="198.8"/>
+					</g>
+					<g>
+						<line class="st29" x1="189.9" y1="122" x2="196.4" y2="128.5"/>
+						<line class="st29" x1="189.9" y1="128.5" x2="196.4" y2="122"/>
+					</g>
+					<g>
+						<line class="st29" x1="133.6" y1="343.9" x2="140.1" y2="350.5"/>
+						<line class="st29" x1="133.6" y1="350.5" x2="140.1" y2="343.9"/>
+					</g>
+					<g>
+						<circle class="st3" cx="491" cy="293.7" r="1.8"/>
+						<circle class="st3" cx="501.3" cy="293.7" r="1.8"/>
+						<circle class="st3" cx="511.7" cy="293.7" r="1.8"/>
+						<circle class="st3" cx="522" cy="293.7" r="1.8"/>
+						<circle class="st3" cx="532.3" cy="293.7" r="1.8"/>
+						<circle class="st3" cx="542.6" cy="293.7" r="1.8"/>
+						<circle class="st3" cx="552.9" cy="293.7" r="1.8"/>
+						<circle class="st3" cx="563.3" cy="293.7" r="1.8"/>
+						<circle class="st3" cx="491" cy="304" r="1.8"/>
+						<circle class="st3" cx="501.3" cy="304" r="1.8"/>
+						<circle class="st3" cx="511.7" cy="304" r="1.8"/>
+						<circle class="st3" cx="522" cy="304" r="1.8"/>
+						<circle class="st3" cx="532.3" cy="304" r="1.8"/>
+						<circle class="st3" cx="542.6" cy="304" r="1.8"/>
+						<circle class="st3" cx="552.9" cy="304" r="1.8"/>
+						<circle class="st3" cx="563.3" cy="304" r="1.8"/>
+						<circle class="st3" cx="491" cy="314.3" r="1.8"/>
+						<circle class="st3" cx="501.3" cy="314.3" r="1.8"/>
+						<circle class="st3" cx="511.7" cy="314.3" r="1.8"/>
+						<circle class="st3" cx="522" cy="314.3" r="1.8"/>
+						<circle class="st3" cx="532.3" cy="314.3" r="1.8"/>
+						<circle class="st3" cx="542.6" cy="314.3" r="1.8"/>
+						<circle class="st3" cx="552.9" cy="314.3" r="1.8"/>
+						<circle class="st3" cx="563.3" cy="314.3" r="1.8"/>
+						<circle class="st3" cx="491" cy="324.6" r="1.8"/>
+						<circle class="st3" cx="501.3" cy="324.6" r="1.8"/>
+						<circle class="st3" cx="511.7" cy="324.6" r="1.8"/>
+						<circle class="st3" cx="522" cy="324.6" r="1.8"/>
+						<circle class="st3" cx="532.3" cy="324.6" r="1.8"/>
+						<circle class="st3" cx="542.6" cy="324.6" r="1.8"/>
+						<circle class="st3" cx="552.9" cy="324.6" r="1.8"/>
+						<circle class="st3" cx="563.3" cy="324.6" r="1.8"/>
+						<circle class="st3" cx="491" cy="334.9" r="1.8"/>
+						<circle class="st3" cx="501.3" cy="334.9" r="1.8"/>
+						<circle class="st3" cx="511.7" cy="334.9" r="1.8"/>
+						<circle class="st3" cx="522" cy="334.9" r="1.8"/>
+						<circle class="st3" cx="532.3" cy="334.9" r="1.8"/>
+						<circle class="st3" cx="542.6" cy="334.9" r="1.8"/>
+						<circle class="st3" cx="552.9" cy="334.9" r="1.8"/>
+						<circle class="st3" cx="563.3" cy="334.9" r="1.8"/>
+					</g>
+					<g>
+						<circle class="st3" cx="215.4" cy="186.8" r="1.8"/>
+						<circle class="st3" cx="225.7" cy="186.8" r="1.8"/>
+						<circle class="st3" cx="236" cy="186.8" r="1.8"/>
+						<circle class="st3" cx="246.4" cy="186.8" r="1.8"/>
+						<circle class="st3" cx="256.7" cy="186.8" r="1.8"/>
+						<circle class="st3" cx="267" cy="186.8" r="1.8"/>
+						<circle class="st3" cx="215.4" cy="197.1" r="1.8"/>
+						<circle class="st3" cx="225.7" cy="197.1" r="1.8"/>
+						<circle class="st3" cx="236" cy="197.1" r="1.8"/>
+						<circle class="st3" cx="246.4" cy="197.1" r="1.8"/>
+						<circle class="st3" cx="256.7" cy="197.1" r="1.8"/>
+						<circle class="st3" cx="267" cy="197.1" r="1.8"/>
+						<circle class="st3" cx="215.4" cy="207.4" r="1.8"/>
+						<circle class="st3" cx="225.7" cy="207.4" r="1.8"/>
+						<circle class="st3" cx="236" cy="207.4" r="1.8"/>
+						<circle class="st3" cx="246.4" cy="207.4" r="1.8"/>
+						<circle class="st3" cx="256.7" cy="207.4" r="1.8"/>
+						<circle class="st3" cx="267" cy="207.4" r="1.8"/>
+						<circle class="st3" cx="215.4" cy="217.8" r="1.8"/>
+						<circle class="st3" cx="225.7" cy="217.8" r="1.8"/>
+						<circle class="st3" cx="236" cy="217.8" r="1.8"/>
+						<circle class="st3" cx="246.4" cy="217.8" r="1.8"/>
+						<circle class="st3" cx="256.7" cy="217.8" r="1.8"/>
+						<circle class="st3" cx="267" cy="217.8" r="1.8"/>
+						<circle class="st3" cx="215.4" cy="228.1" r="1.8"/>
+						<circle class="st3" cx="225.7" cy="228.1" r="1.8"/>
+						<circle class="st3" cx="236" cy="228.1" r="1.8"/>
+						<circle class="st3" cx="246.4" cy="228.1" r="1.8"/>
+						<circle class="st3" cx="256.7" cy="228.1" r="1.8"/>
+						<circle class="st3" cx="267" cy="228.1" r="1.8"/>
+					</g>
+					<g>
+						<circle class="st3" cx="461.3" cy="129.9" r="1.8"/>
+						<circle class="st3" cx="461.3" cy="140.2" r="1.8"/>
+						<circle class="st3" cx="461.3" cy="150.5" r="1.8"/>
+						<circle class="st3" cx="461.3" cy="160.9" r="1.8"/>
+						<circle class="st3" cx="461.3" cy="171.2" r="1.8"/>
+						<circle class="st3" cx="461.3" cy="181.5" r="1.8"/>
+						<circle class="st3" cx="461.3" cy="191.8" r="1.8"/>
+						<circle class="st3" cx="461.3" cy="202.1" r="1.8"/>
+						<circle class="st3" cx="451" cy="129.9" r="1.8"/>
+						<circle class="st3" cx="451" cy="140.2" r="1.8"/>
+						<circle class="st3" cx="451" cy="150.5" r="1.8"/>
+						<circle class="st3" cx="451" cy="160.9" r="1.8"/>
+						<circle class="st3" cx="451" cy="171.2" r="1.8"/>
+						<circle class="st3" cx="451" cy="181.5" r="1.8"/>
+						<circle class="st3" cx="451" cy="191.8" r="1.8"/>
+						<circle class="st3" cx="451" cy="202.1" r="1.8"/>
+						<circle class="st3" cx="440.7" cy="129.9" r="1.8"/>
+						<circle class="st3" cx="440.7" cy="140.2" r="1.8"/>
+						<circle class="st3" cx="440.7" cy="150.5" r="1.8"/>
+						<circle class="st3" cx="440.7" cy="160.9" r="1.8"/>
+						<circle class="st3" cx="440.7" cy="171.2" r="1.8"/>
+						<circle class="st3" cx="440.7" cy="181.5" r="1.8"/>
+						<circle class="st3" cx="440.7" cy="191.8" r="1.8"/>
+						<circle class="st3" cx="440.7" cy="202.1" r="1.8"/>
+						<circle class="st3" cx="430.3" cy="129.9" r="1.8"/>
+						<circle class="st3" cx="430.3" cy="140.2" r="1.8"/>
+						<circle class="st3" cx="430.3" cy="150.5" r="1.8"/>
+						<circle class="st3" cx="430.3" cy="160.9" r="1.8"/>
+						<circle class="st3" cx="430.3" cy="171.2" r="1.8"/>
+						<circle class="st3" cx="430.3" cy="181.5" r="1.8"/>
+						<circle class="st3" cx="430.3" cy="191.8" r="1.8"/>
+						<circle class="st3" cx="430.3" cy="202.1" r="1.8"/>
+						<circle class="st3" cx="420" cy="129.9" r="1.8"/>
+						<circle class="st3" cx="420" cy="140.2" r="1.8"/>
+						<circle class="st3" cx="420" cy="150.5" r="1.8"/>
+						<circle class="st3" cx="420" cy="160.9" r="1.8"/>
+						<circle class="st3" cx="420" cy="171.2" r="1.8"/>
+						<circle class="st3" cx="420" cy="181.5" r="1.8"/>
+						<circle class="st3" cx="420" cy="191.8" r="1.8"/>
+						<circle class="st3" cx="420" cy="202.1" r="1.8"/>
+					</g>
+					<g>
+						<circle class="st3" cx="419.2" cy="80.7" r="1.8"/>
+						<circle class="st3" cx="408.9" cy="80.7" r="1.8"/>
+						<circle class="st3" cx="398.6" cy="80.7" r="1.8"/>
+						<circle class="st3" cx="388.3" cy="80.7" r="1.8"/>
+						<circle class="st3" cx="378" cy="80.7" r="1.8"/>
+						<circle class="st3" cx="367.7" cy="80.7" r="1.8"/>
+						<circle class="st3" cx="357.3" cy="80.7" r="1.8"/>
+						<circle class="st3" cx="347" cy="80.7" r="1.8"/>
+						<circle class="st3" cx="419.2" cy="70.4" r="1.8"/>
+						<circle class="st3" cx="408.9" cy="70.4" r="1.8"/>
+						<circle class="st3" cx="398.6" cy="70.4" r="1.8"/>
+						<circle class="st3" cx="388.3" cy="70.4" r="1.8"/>
+						<circle class="st3" cx="378" cy="70.4" r="1.8"/>
+						<circle class="st3" cx="367.7" cy="70.4" r="1.8"/>
+						<circle class="st3" cx="357.3" cy="70.4" r="1.8"/>
+						<circle class="st3" cx="347" cy="70.4" r="1.8"/>
+						<circle class="st3" cx="419.2" cy="60.1" r="1.8"/>
+						<circle class="st3" cx="408.9" cy="60.1" r="1.8"/>
+						<circle class="st3" cx="398.6" cy="60.1" r="1.8"/>
+						<circle class="st3" cx="388.3" cy="60.1" r="1.8"/>
+						<circle class="st3" cx="378" cy="60.1" r="1.8"/>
+						<circle class="st3" cx="367.7" cy="60.1" r="1.8"/>
+						<circle class="st3" cx="357.3" cy="60.1" r="1.8"/>
+						<circle class="st3" cx="347" cy="60.1" r="1.8"/>
+						<circle class="st3" cx="419.2" cy="49.8" r="1.8"/>
+						<circle class="st3" cx="408.9" cy="49.8" r="1.8"/>
+						<circle class="st3" cx="398.6" cy="49.8" r="1.8"/>
+						<circle class="st3" cx="388.3" cy="49.8" r="1.8"/>
+						<circle class="st3" cx="378" cy="49.8" r="1.8"/>
+						<circle class="st3" cx="367.7" cy="49.8" r="1.8"/>
+						<circle class="st3" cx="357.3" cy="49.8" r="1.8"/>
+						<circle class="st3" cx="347" cy="49.8" r="1.8"/>
+						<circle class="st3" cx="419.2" cy="39.5" r="1.8"/>
+						<circle class="st3" cx="408.9" cy="39.5" r="1.8"/>
+						<circle class="st3" cx="398.6" cy="39.5" r="1.8"/>
+						<circle class="st3" cx="388.3" cy="39.5" r="1.8"/>
+						<circle class="st3" cx="378" cy="39.5" r="1.8"/>
+						<circle class="st3" cx="367.7" cy="39.5" r="1.8"/>
+						<circle class="st3" cx="357.3" cy="39.5" r="1.8"/>
+						<circle class="st3" cx="347" cy="39.5" r="1.8"/>
+					</g>
+					<g>
+						<defs>
+							<circle id="SVGID_10_" cx="309.3" cy="283.9" r="48.1"/>
+						</defs>
+						<clipPath id="SVGID_11_">
+							<use xlink:href="#SVGID_10_"  style="overflow:visible;"/>
+						</clipPath>
+						<g class="st30">
+							<line class="st29" x1="262.5" y1="202.7" x2="95.7" y2="369.6"/>
+							<line class="st29" x1="269.5" y1="202.7" x2="102.7" y2="369.6"/>
+							<line class="st29" x1="276.4" y1="202.7" x2="109.6" y2="369.6"/>
+							<line class="st29" x1="283.4" y1="202.7" x2="116.6" y2="369.6"/>
+							<line class="st29" x1="290.3" y1="202.7" x2="123.5" y2="369.6"/>
+							<line class="st29" x1="297.3" y1="202.7" x2="130.5" y2="369.6"/>
+							<line class="st29" x1="304.3" y1="202.7" x2="137.4" y2="369.6"/>
+							<line class="st29" x1="311.2" y1="202.7" x2="144.4" y2="369.6"/>
+							<line class="st29" x1="318.2" y1="202.7" x2="151.4" y2="369.6"/>
+							<line class="st29" x1="325.1" y1="202.7" x2="158.3" y2="369.6"/>
+							<line class="st29" x1="332.1" y1="202.7" x2="165.3" y2="369.6"/>
+							<line class="st29" x1="339" y1="202.7" x2="172.2" y2="369.6"/>
+							<line class="st29" x1="346" y1="202.7" x2="179.2" y2="369.6"/>
+							<line class="st29" x1="352.9" y1="202.7" x2="186.1" y2="369.6"/>
+							<line class="st29" x1="359.9" y1="202.7" x2="193.1" y2="369.6"/>
+							<line class="st29" x1="366.8" y1="202.7" x2="200" y2="369.6"/>
+							<line class="st29" x1="373.8" y1="202.7" x2="207" y2="369.6"/>
+							<line class="st29" x1="380.7" y1="202.7" x2="213.9" y2="369.6"/>
+							<line class="st29" x1="387.7" y1="202.7" x2="220.9" y2="369.6"/>
+							<line class="st29" x1="394.6" y1="202.7" x2="227.8" y2="369.6"/>
+							<line class="st29" x1="401.6" y1="202.7" x2="234.8" y2="369.6"/>
+							<line class="st29" x1="408.5" y1="202.7" x2="241.7" y2="369.6"/>
+							<line class="st29" x1="415.5" y1="202.7" x2="248.7" y2="369.6"/>
+							<line class="st29" x1="422.5" y1="202.7" x2="255.6" y2="369.6"/>
+							<line class="st29" x1="429.4" y1="202.7" x2="262.6" y2="369.6"/>
+							<line class="st29" x1="436.4" y1="202.7" x2="269.6" y2="369.6"/>
+							<line class="st29" x1="443.3" y1="202.7" x2="276.5" y2="369.6"/>
+							<line class="st29" x1="450.3" y1="202.7" x2="283.5" y2="369.6"/>
+							<line class="st29" x1="457.2" y1="202.7" x2="290.4" y2="369.6"/>
+							<line class="st29" x1="464.2" y1="202.7" x2="297.4" y2="369.6"/>
+							<line class="st29" x1="471.1" y1="202.7" x2="304.3" y2="369.6"/>
+							<line class="st29" x1="478.1" y1="202.7" x2="311.3" y2="369.6"/>
+							<line class="st29" x1="485" y1="202.7" x2="318.2" y2="369.6"/>
+							<line class="st29" x1="492" y1="202.7" x2="325.2" y2="369.6"/>
+						</g>
+					</g>
+					<g>
+						<defs>
+							<circle id="SVGID_12_" cx="181.7" cy="51.4" r="48.1"/>
+						</defs>
+						<clipPath id="SVGID_13_">
+							<use xlink:href="#SVGID_12_"  style="overflow:visible;"/>
+						</clipPath>
+						<g class="st31">
+							<line class="st29" x1="134.9" y1="-29.7" x2="-31.9" y2="137.1"/>
+							<line class="st29" x1="141.8" y1="-29.7" x2="-25" y2="137.1"/>
+							<line class="st29" x1="148.8" y1="-29.7" x2="-18" y2="137.1"/>
+							<line class="st29" x1="155.7" y1="-29.7" x2="-11.1" y2="137.1"/>
+							<line class="st29" x1="162.7" y1="-29.7" x2="-4.1" y2="137.1"/>
+							<line class="st29" x1="169.6" y1="-29.7" x2="2.8" y2="137.1"/>
+							<line class="st29" x1="176.6" y1="-29.7" x2="9.8" y2="137.1"/>
+							<line class="st29" x1="183.6" y1="-29.7" x2="16.7" y2="137.1"/>
+							<line class="st29" x1="190.5" y1="-29.7" x2="23.7" y2="137.1"/>
+							<line class="st29" x1="197.5" y1="-29.7" x2="30.7" y2="137.1"/>
+							<line class="st29" x1="204.4" y1="-29.7" x2="37.6" y2="137.1"/>
+							<line class="st29" x1="211.4" y1="-29.7" x2="44.6" y2="137.1"/>
+							<line class="st29" x1="218.3" y1="-29.7" x2="51.5" y2="137.1"/>
+							<line class="st29" x1="225.3" y1="-29.7" x2="58.5" y2="137.1"/>
+							<line class="st29" x1="232.2" y1="-29.7" x2="65.4" y2="137.1"/>
+							<line class="st29" x1="239.2" y1="-29.7" x2="72.4" y2="137.1"/>
+							<line class="st29" x1="246.1" y1="-29.7" x2="79.3" y2="137.1"/>
+							<line class="st29" x1="253.1" y1="-29.7" x2="86.3" y2="137.1"/>
+							<line class="st29" x1="260" y1="-29.7" x2="93.2" y2="137.1"/>
+							<line class="st29" x1="267" y1="-29.7" x2="100.2" y2="137.1"/>
+							<line class="st29" x1="273.9" y1="-29.7" x2="107.1" y2="137.1"/>
+							<line class="st29" x1="280.9" y1="-29.7" x2="114.1" y2="137.1"/>
+							<line class="st29" x1="287.8" y1="-29.7" x2="121" y2="137.1"/>
+							<line class="st29" x1="294.8" y1="-29.7" x2="128" y2="137.1"/>
+							<line class="st29" x1="301.8" y1="-29.7" x2="134.9" y2="137.1"/>
+							<line class="st29" x1="308.7" y1="-29.7" x2="141.9" y2="137.1"/>
+							<line class="st29" x1="315.7" y1="-29.7" x2="148.9" y2="137.1"/>
+							<line class="st29" x1="322.6" y1="-29.7" x2="155.8" y2="137.1"/>
+							<line class="st29" x1="329.6" y1="-29.7" x2="162.8" y2="137.1"/>
+							<line class="st29" x1="336.5" y1="-29.7" x2="169.7" y2="137.1"/>
+							<line class="st29" x1="343.5" y1="-29.7" x2="176.7" y2="137.1"/>
+							<line class="st29" x1="350.4" y1="-29.7" x2="183.6" y2="137.1"/>
+							<line class="st29" x1="357.4" y1="-29.7" x2="190.6" y2="137.1"/>
+							<line class="st29" x1="364.3" y1="-29.7" x2="197.5" y2="137.1"/>
+						</g>
+					</g>
+					<polygon class="st29" points="443.9,242.5 443.9,254.8 454.5,248.7 					"/>
+					<polygon class="st29" points="361.7,125.3 355.2,114.9 349.4,125.7 					"/>
+					<polygon class="st29" points="378.4,348.5 371.8,338.1 366.1,348.9 					"/>
+					<polygon class="st29" points="52.6,468.9 46.1,458.5 40.3,469.4 					"/>
+				</g>
+			</g>
+		</g>
+		<g class="st0">
+			<text transform="matrix(1 0 0 1 109.3721 98.0003)" class="st32 st33 st34">COMPANY</text>
+			<g class="st35">
+				<text transform="matrix(1 0 0 1 390.688 97.4162)" class="st3 st33 st36">About</text>
+				<text transform="matrix(1 0 0 1 445.5642 97.4162)" class="st3 st37 st36">Team</text>
+				<text transform="matrix(1 0 0 1 497.1349 97.4162)" class="st3 st37 st36">Pricing</text>
+				<text transform="matrix(1 0 0 1 553.7951 97.4162)" class="st3 st37 st36">Issues</text>
+				<text transform="matrix(1 0 0 1 607.4497 97.4162)" class="st3 st37 st36">Log In</text>
+				<line class="st38" x1="612.3" y1="103" x2="620.7" y2="103"/>
+			</g>
+			<g class="st35">
+				<g>
+					<text transform="matrix(1 0 0 1 107.6415 213.5456)" class="st3 st33 st39">Background</text>
+					<text transform="matrix(1 0 0 1 109.372 181.3791)" class="st3 st33 st39">Abstract </text>
+					<rect x="109.4" y="229.3" class="st40" width="201.1" height="39.5"/>
+					<text transform="matrix(1 0 0 1 109.3719 234.2239)"><tspan x="0" y="0" class="st3 st37 st36">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </tspan><tspan x="0" y="14" class="st3 st37 st36">eiusmod tempor incididunt ut labore et dolore magna aliqua. </tspan></text>
+				</g>
+				<g>
+					<g>
+						
+							<image style="overflow:visible;opacity:0.1;" width="436" height="203" xlink:href="data:image/png;base64,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" transform="matrix(0.24 0 0 0.24 93.3721 298.1709)">
+						</image>
+						<g>
+							<path class="st3" d="M174.5,324.8h-55.8c-5.2,0-9.3-4.2-9.3-9.3l0,0c0-5.2,4.2-9.3,9.3-9.3h55.8c5.2,0,9.3,4.2,9.3,9.3l0,0
+								C183.8,320.7,179.6,324.8,174.5,324.8z"/>
+						</g>
+					</g>
+					<text transform="matrix(1 0 0 1 126.8463 317.2682)" class="st41 st42 st36">GET STARTED</text>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<circle class="st29" cx="643.6" cy="222.9" r="5.1"/>
+		<circle class="st29" cx="57.6" cy="161.5" r="4.3"/>
+		<circle class="st29" cx="150.5" cy="267.4" r="5.1"/>
+		<circle class="st29" cx="704.6" cy="431.3" r="5.1"/>
+		<path class="st29" d="M675.4,193.3c3.4,0,3.4,5.1,6.9,5.1s3.4-5.1,6.9-5.1c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1
+			c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1s3.4,5.1,6.9,5.1"/>
+		<path class="st29" d="M40.3,235.7c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1
+			c3.4,0,3.4,5.1,6.9,5.1c3.4,0,3.4-5.1,6.9-5.1c3.4,0,3.4,5.1,6.9,5.1"/>
+		<g>
+			<line class="st29" x1="722.9" y1="260.9" x2="729.4" y2="267.4"/>
+			<line class="st29" x1="722.9" y1="267.4" x2="729.4" y2="260.9"/>
+		</g>
+		<g>
+			<line class="st29" x1="593" y1="184" x2="599.5" y2="190.5"/>
+			<line class="st29" x1="593" y1="190.5" x2="599.5" y2="184"/>
+		</g>
+		<g>
+			<circle class="st3" cx="520.5" cy="433" r="1.8"/>
+			<circle class="st3" cx="530.8" cy="433" r="1.8"/>
+			<circle class="st3" cx="541.1" cy="433" r="1.8"/>
+			<circle class="st3" cx="551.5" cy="433" r="1.8"/>
+			<circle class="st3" cx="561.8" cy="433" r="1.8"/>
+			<circle class="st3" cx="572.1" cy="433" r="1.8"/>
+			<circle class="st3" cx="582.4" cy="433" r="1.8"/>
+			<circle class="st3" cx="592.7" cy="433" r="1.8"/>
+			<circle class="st3" cx="520.5" cy="443.3" r="1.8"/>
+			<circle class="st3" cx="530.8" cy="443.3" r="1.8"/>
+			<circle class="st3" cx="541.1" cy="443.3" r="1.8"/>
+			<circle class="st3" cx="551.5" cy="443.3" r="1.8"/>
+			<circle class="st3" cx="561.8" cy="443.3" r="1.8"/>
+			<circle class="st3" cx="572.1" cy="443.3" r="1.8"/>
+			<circle class="st3" cx="582.4" cy="443.3" r="1.8"/>
+			<circle class="st3" cx="592.7" cy="443.3" r="1.8"/>
+			<circle class="st3" cx="520.5" cy="453.6" r="1.8"/>
+			<circle class="st3" cx="530.8" cy="453.6" r="1.8"/>
+			<circle class="st3" cx="541.1" cy="453.6" r="1.8"/>
+			<circle class="st3" cx="551.5" cy="453.6" r="1.8"/>
+			<circle class="st3" cx="561.8" cy="453.6" r="1.8"/>
+			<circle class="st3" cx="572.1" cy="453.6" r="1.8"/>
+			<circle class="st3" cx="582.4" cy="453.6" r="1.8"/>
+			<circle class="st3" cx="592.7" cy="453.6" r="1.8"/>
+			<circle class="st3" cx="520.5" cy="463.9" r="1.8"/>
+			<circle class="st3" cx="530.8" cy="463.9" r="1.8"/>
+			<circle class="st3" cx="541.1" cy="463.9" r="1.8"/>
+			<circle class="st3" cx="551.5" cy="463.9" r="1.8"/>
+			<circle class="st3" cx="561.8" cy="463.9" r="1.8"/>
+			<circle class="st3" cx="572.1" cy="463.9" r="1.8"/>
+			<circle class="st3" cx="582.4" cy="463.9" r="1.8"/>
+			<circle class="st3" cx="592.7" cy="463.9" r="1.8"/>
+			<circle class="st3" cx="520.5" cy="474.3" r="1.8"/>
+			<circle class="st3" cx="530.8" cy="474.3" r="1.8"/>
+			<circle class="st3" cx="541.1" cy="474.3" r="1.8"/>
+			<circle class="st3" cx="551.5" cy="474.3" r="1.8"/>
+			<circle class="st3" cx="561.8" cy="474.3" r="1.8"/>
+			<circle class="st3" cx="572.1" cy="474.3" r="1.8"/>
+			<circle class="st3" cx="582.4" cy="474.3" r="1.8"/>
+			<circle class="st3" cx="592.7" cy="474.3" r="1.8"/>
+		</g>
+		<g>
+			<circle class="st3" cx="618.5" cy="248.8" r="1.8"/>
+			<circle class="st3" cx="628.8" cy="248.8" r="1.8"/>
+			<circle class="st3" cx="639.2" cy="248.8" r="1.8"/>
+			<circle class="st3" cx="649.5" cy="248.8" r="1.8"/>
+			<circle class="st3" cx="659.8" cy="248.8" r="1.8"/>
+			<circle class="st3" cx="670.1" cy="248.8" r="1.8"/>
+			<circle class="st3" cx="618.5" cy="259.2" r="1.8"/>
+			<circle class="st3" cx="628.8" cy="259.2" r="1.8"/>
+			<circle class="st3" cx="639.2" cy="259.2" r="1.8"/>
+			<circle class="st3" cx="649.5" cy="259.2" r="1.8"/>
+			<circle class="st3" cx="659.8" cy="259.2" r="1.8"/>
+			<circle class="st3" cx="670.1" cy="259.2" r="1.8"/>
+			<circle class="st3" cx="618.5" cy="269.5" r="1.8"/>
+			<circle class="st3" cx="628.8" cy="269.5" r="1.8"/>
+			<circle class="st3" cx="639.2" cy="269.5" r="1.8"/>
+			<circle class="st3" cx="649.5" cy="269.5" r="1.8"/>
+			<circle class="st3" cx="659.8" cy="269.5" r="1.8"/>
+			<circle class="st3" cx="670.1" cy="269.5" r="1.8"/>
+			<circle class="st3" cx="618.5" cy="279.8" r="1.8"/>
+			<circle class="st3" cx="628.8" cy="279.8" r="1.8"/>
+			<circle class="st3" cx="639.2" cy="279.8" r="1.8"/>
+			<circle class="st3" cx="649.5" cy="279.8" r="1.8"/>
+			<circle class="st3" cx="659.8" cy="279.8" r="1.8"/>
+			<circle class="st3" cx="670.1" cy="279.8" r="1.8"/>
+			<circle class="st3" cx="618.5" cy="290.1" r="1.8"/>
+			<circle class="st3" cx="628.8" cy="290.1" r="1.8"/>
+			<circle class="st3" cx="639.2" cy="290.1" r="1.8"/>
+			<circle class="st3" cx="649.5" cy="290.1" r="1.8"/>
+			<circle class="st3" cx="659.8" cy="290.1" r="1.8"/>
+			<circle class="st3" cx="670.1" cy="290.1" r="1.8"/>
+		</g>
+		<g>
+			<circle class="st3" cx="730.3" cy="16.7" r="1.8"/>
+			<circle class="st3" cx="730.3" cy="27" r="1.8"/>
+			<circle class="st3" cx="730.3" cy="37.4" r="1.8"/>
+			<circle class="st3" cx="730.3" cy="47.7" r="1.8"/>
+			<circle class="st3" cx="730.3" cy="58" r="1.8"/>
+			<circle class="st3" cx="730.3" cy="68.3" r="1.8"/>
+			<circle class="st3" cx="730.3" cy="78.6" r="1.8"/>
+			<circle class="st3" cx="730.3" cy="89" r="1.8"/>
+			<circle class="st3" cx="720" cy="16.7" r="1.8"/>
+			<circle class="st3" cx="720" cy="27" r="1.8"/>
+			<circle class="st3" cx="720" cy="37.4" r="1.8"/>
+			<circle class="st3" cx="720" cy="47.7" r="1.8"/>
+			<circle class="st3" cx="720" cy="58" r="1.8"/>
+			<circle class="st3" cx="720" cy="68.3" r="1.8"/>
+			<circle class="st3" cx="720" cy="78.6" r="1.8"/>
+			<circle class="st3" cx="720" cy="89" r="1.8"/>
+			<circle class="st3" cx="709.7" cy="16.7" r="1.8"/>
+			<circle class="st3" cx="709.7" cy="27" r="1.8"/>
+			<circle class="st3" cx="709.7" cy="37.4" r="1.8"/>
+			<circle class="st3" cx="709.7" cy="47.7" r="1.8"/>
+			<circle class="st3" cx="709.7" cy="58" r="1.8"/>
+			<circle class="st3" cx="709.7" cy="68.3" r="1.8"/>
+			<circle class="st3" cx="709.7" cy="78.6" r="1.8"/>
+			<circle class="st3" cx="709.7" cy="89" r="1.8"/>
+			<circle class="st3" cx="699.4" cy="16.7" r="1.8"/>
+			<circle class="st3" cx="699.4" cy="27" r="1.8"/>
+			<circle class="st3" cx="699.4" cy="37.4" r="1.8"/>
+			<circle class="st3" cx="699.4" cy="47.7" r="1.8"/>
+			<circle class="st3" cx="699.4" cy="58" r="1.8"/>
+			<circle class="st3" cx="699.4" cy="68.3" r="1.8"/>
+			<circle class="st3" cx="699.4" cy="78.6" r="1.8"/>
+			<circle class="st3" cx="699.4" cy="89" r="1.8"/>
+			<circle class="st3" cx="689" cy="16.7" r="1.8"/>
+			<circle class="st3" cx="689" cy="27" r="1.8"/>
+			<circle class="st3" cx="689" cy="37.4" r="1.8"/>
+			<circle class="st3" cx="689" cy="47.7" r="1.8"/>
+			<circle class="st3" cx="689" cy="58" r="1.8"/>
+			<circle class="st3" cx="689" cy="68.3" r="1.8"/>
+			<circle class="st3" cx="689" cy="78.6" r="1.8"/>
+			<circle class="st3" cx="689" cy="89" r="1.8"/>
+		</g>
+		<g>
+			<circle class="st3" cx="274.2" cy="482.8" r="1.8"/>
+			<circle class="st3" cx="263.8" cy="482.8" r="1.8"/>
+			<circle class="st3" cx="253.5" cy="482.8" r="1.8"/>
+			<circle class="st3" cx="243.2" cy="482.8" r="1.8"/>
+			<circle class="st3" cx="232.9" cy="482.8" r="1.8"/>
+			<circle class="st3" cx="222.6" cy="482.8" r="1.8"/>
+			<circle class="st3" cx="212.3" cy="482.8" r="1.8"/>
+			<circle class="st3" cx="201.9" cy="482.8" r="1.8"/>
+			<circle class="st3" cx="274.2" cy="472.5" r="1.8"/>
+			<circle class="st3" cx="263.8" cy="472.5" r="1.8"/>
+			<circle class="st3" cx="253.5" cy="472.5" r="1.8"/>
+			<circle class="st3" cx="243.2" cy="472.5" r="1.8"/>
+			<circle class="st3" cx="232.9" cy="472.5" r="1.8"/>
+			<circle class="st3" cx="222.6" cy="472.5" r="1.8"/>
+			<circle class="st3" cx="212.3" cy="472.5" r="1.8"/>
+			<circle class="st3" cx="201.9" cy="472.5" r="1.8"/>
+			<circle class="st3" cx="274.2" cy="462.2" r="1.8"/>
+			<circle class="st3" cx="263.8" cy="462.2" r="1.8"/>
+			<circle class="st3" cx="253.5" cy="462.2" r="1.8"/>
+			<circle class="st3" cx="243.2" cy="462.2" r="1.8"/>
+			<circle class="st3" cx="232.9" cy="462.2" r="1.8"/>
+			<circle class="st3" cx="222.6" cy="462.2" r="1.8"/>
+			<circle class="st3" cx="212.3" cy="462.2" r="1.8"/>
+			<circle class="st3" cx="201.9" cy="462.2" r="1.8"/>
+			<circle class="st3" cx="274.2" cy="451.8" r="1.8"/>
+			<circle class="st3" cx="263.8" cy="451.8" r="1.8"/>
+			<circle class="st3" cx="253.5" cy="451.8" r="1.8"/>
+			<circle class="st3" cx="243.2" cy="451.8" r="1.8"/>
+			<circle class="st3" cx="232.9" cy="451.8" r="1.8"/>
+			<circle class="st3" cx="222.6" cy="451.8" r="1.8"/>
+			<circle class="st3" cx="212.3" cy="451.8" r="1.8"/>
+			<circle class="st3" cx="201.9" cy="451.8" r="1.8"/>
+			<circle class="st3" cx="274.2" cy="441.5" r="1.8"/>
+			<circle class="st3" cx="263.8" cy="441.5" r="1.8"/>
+			<circle class="st3" cx="253.5" cy="441.5" r="1.8"/>
+			<circle class="st3" cx="243.2" cy="441.5" r="1.8"/>
+			<circle class="st3" cx="232.9" cy="441.5" r="1.8"/>
+			<circle class="st3" cx="222.6" cy="441.5" r="1.8"/>
+			<circle class="st3" cx="212.3" cy="441.5" r="1.8"/>
+			<circle class="st3" cx="201.9" cy="441.5" r="1.8"/>
+		</g>
+		<g>
+			<defs>
+				<circle id="SVGID_14_" cx="671.9" cy="365" r="48.1"/>
+			</defs>
+			<clipPath id="SVGID_15_">
+				<use xlink:href="#SVGID_14_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st43">
+				<line class="st29" x1="665.7" y1="264.8" x2="498.9" y2="431.6"/>
+				<line class="st29" x1="672.6" y1="264.8" x2="505.8" y2="431.6"/>
+				<line class="st29" x1="679.6" y1="264.8" x2="512.8" y2="431.6"/>
+				<line class="st29" x1="686.5" y1="264.8" x2="519.7" y2="431.6"/>
+				<line class="st29" x1="693.5" y1="264.8" x2="526.7" y2="431.6"/>
+				<line class="st29" x1="700.4" y1="264.8" x2="533.6" y2="431.6"/>
+				<line class="st29" x1="707.4" y1="264.8" x2="540.6" y2="431.6"/>
+				<line class="st29" x1="714.3" y1="264.8" x2="547.5" y2="431.6"/>
+				<line class="st29" x1="721.3" y1="264.8" x2="554.5" y2="431.6"/>
+				<line class="st29" x1="728.2" y1="264.8" x2="561.4" y2="431.6"/>
+				<line class="st29" x1="735.2" y1="264.8" x2="568.4" y2="431.6"/>
+				<line class="st29" x1="742.2" y1="264.8" x2="575.3" y2="431.6"/>
+				<line class="st29" x1="749.1" y1="264.8" x2="582.3" y2="431.6"/>
+				<line class="st29" x1="756.1" y1="264.8" x2="589.2" y2="431.6"/>
+				<line class="st29" x1="763" y1="264.8" x2="596.2" y2="431.6"/>
+				<line class="st29" x1="770" y1="264.8" x2="603.2" y2="431.6"/>
+				<line class="st29" x1="776.9" y1="264.8" x2="610.1" y2="431.6"/>
+				<line class="st29" x1="783.9" y1="264.8" x2="617.1" y2="431.6"/>
+				<line class="st29" x1="790.8" y1="264.8" x2="624" y2="431.6"/>
+				<line class="st29" x1="797.8" y1="264.8" x2="631" y2="431.6"/>
+				<line class="st29" x1="804.7" y1="264.8" x2="637.9" y2="431.6"/>
+				<line class="st29" x1="811.7" y1="264.8" x2="644.9" y2="431.6"/>
+				<line class="st29" x1="818.6" y1="264.8" x2="651.8" y2="431.6"/>
+				<line class="st29" x1="825.6" y1="264.8" x2="658.8" y2="431.6"/>
+				<line class="st29" x1="832.5" y1="264.8" x2="665.7" y2="431.6"/>
+				<line class="st29" x1="839.5" y1="264.8" x2="672.7" y2="431.6"/>
+				<line class="st29" x1="846.4" y1="264.8" x2="679.6" y2="431.6"/>
+				<line class="st29" x1="853.4" y1="264.8" x2="686.6" y2="431.6"/>
+				<line class="st29" x1="860.3" y1="264.8" x2="693.5" y2="431.6"/>
+				<line class="st29" x1="867.3" y1="264.8" x2="700.5" y2="431.6"/>
+				<line class="st29" x1="874.3" y1="264.8" x2="707.4" y2="431.6"/>
+				<line class="st29" x1="881.2" y1="264.8" x2="714.4" y2="431.6"/>
+				<line class="st29" x1="888.2" y1="264.8" x2="721.4" y2="431.6"/>
+				<line class="st29" x1="895.1" y1="264.8" x2="728.3" y2="431.6"/>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<circle id="SVGID_16_" cx="584.8" cy="113.5" r="48.1"/>
+			</defs>
+			<clipPath id="SVGID_17_">
+				<use xlink:href="#SVGID_16_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st44">
+				<line class="st29" x1="538" y1="32.3" x2="371.2" y2="199.2"/>
+				<line class="st29" x1="545" y1="32.3" x2="378.2" y2="199.2"/>
+				<line class="st29" x1="551.9" y1="32.3" x2="385.1" y2="199.2"/>
+				<line class="st29" x1="558.9" y1="32.3" x2="392.1" y2="199.2"/>
+				<line class="st29" x1="565.8" y1="32.3" x2="399" y2="199.2"/>
+				<line class="st29" x1="572.8" y1="32.3" x2="406" y2="199.2"/>
+				<line class="st29" x1="579.7" y1="32.3" x2="412.9" y2="199.2"/>
+				<line class="st29" x1="586.7" y1="32.3" x2="419.9" y2="199.2"/>
+				<line class="st29" x1="593.6" y1="32.3" x2="426.8" y2="199.2"/>
+				<line class="st29" x1="600.6" y1="32.3" x2="433.8" y2="199.2"/>
+				<line class="st29" x1="607.5" y1="32.3" x2="440.7" y2="199.2"/>
+				<line class="st29" x1="614.5" y1="32.3" x2="447.7" y2="199.2"/>
+				<line class="st29" x1="621.5" y1="32.3" x2="454.6" y2="199.2"/>
+				<line class="st29" x1="628.4" y1="32.3" x2="461.6" y2="199.2"/>
+				<line class="st29" x1="635.4" y1="32.3" x2="468.5" y2="199.2"/>
+				<line class="st29" x1="642.3" y1="32.3" x2="475.5" y2="199.2"/>
+				<line class="st29" x1="649.3" y1="32.3" x2="482.5" y2="199.2"/>
+				<line class="st29" x1="656.2" y1="32.3" x2="489.4" y2="199.2"/>
+				<line class="st29" x1="663.2" y1="32.3" x2="496.4" y2="199.2"/>
+				<line class="st29" x1="670.1" y1="32.3" x2="503.3" y2="199.2"/>
+				<line class="st29" x1="677.1" y1="32.3" x2="510.3" y2="199.2"/>
+				<line class="st29" x1="684" y1="32.3" x2="517.2" y2="199.2"/>
+				<line class="st29" x1="691" y1="32.3" x2="524.2" y2="199.2"/>
+				<line class="st29" x1="697.9" y1="32.3" x2="531.1" y2="199.2"/>
+				<line class="st29" x1="704.9" y1="32.3" x2="538.1" y2="199.2"/>
+				<line class="st29" x1="711.8" y1="32.3" x2="545" y2="199.2"/>
+				<line class="st29" x1="718.8" y1="32.3" x2="552" y2="199.2"/>
+				<line class="st29" x1="725.7" y1="32.3" x2="558.9" y2="199.2"/>
+				<line class="st29" x1="732.7" y1="32.3" x2="565.9" y2="199.2"/>
+				<line class="st29" x1="739.7" y1="32.3" x2="572.8" y2="199.2"/>
+				<line class="st29" x1="746.6" y1="32.3" x2="579.8" y2="199.2"/>
+				<line class="st29" x1="753.6" y1="32.3" x2="586.7" y2="199.2"/>
+				<line class="st29" x1="760.5" y1="32.3" x2="593.7" y2="199.2"/>
+				<line class="st29" x1="767.5" y1="32.3" x2="600.7" y2="199.2"/>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<circle id="SVGID_18_" cx="862.7" cy="476.5" r="82.2"/>
+			</defs>
+			<clipPath id="SVGID_19_">
+				<use xlink:href="#SVGID_18_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st45">
+				<line class="st29" x1="673.3" y1="-46.4" x2="506.5" y2="120.4"/>
+				<line class="st29" x1="680.2" y1="-46.4" x2="513.4" y2="120.4"/>
+				<line class="st29" x1="687.2" y1="-46.4" x2="520.4" y2="120.4"/>
+				<line class="st29" x1="694.1" y1="-46.4" x2="527.3" y2="120.4"/>
+				<line class="st29" x1="701.1" y1="-46.4" x2="534.3" y2="120.4"/>
+				<line class="st29" x1="708" y1="-46.4" x2="541.2" y2="120.4"/>
+				<line class="st29" x1="715" y1="-46.4" x2="548.2" y2="120.4"/>
+				<line class="st29" x1="721.9" y1="-46.4" x2="555.1" y2="120.4"/>
+				<line class="st29" x1="728.9" y1="-46.4" x2="562.1" y2="120.4"/>
+				<line class="st29" x1="735.8" y1="-46.4" x2="569" y2="120.4"/>
+				<line class="st29" x1="742.8" y1="-46.4" x2="576" y2="120.4"/>
+				<line class="st29" x1="749.8" y1="-46.4" x2="582.9" y2="120.4"/>
+				<line class="st29" x1="756.7" y1="-46.4" x2="589.9" y2="120.4"/>
+				<line class="st29" x1="763.7" y1="-46.4" x2="596.9" y2="120.4"/>
+				<line class="st29" x1="770.6" y1="-46.4" x2="603.8" y2="120.4"/>
+				<line class="st29" x1="777.6" y1="-46.4" x2="610.8" y2="120.4"/>
+				<line class="st29" x1="784.5" y1="-46.4" x2="617.7" y2="120.4"/>
+				<line class="st29" x1="791.5" y1="-46.4" x2="624.7" y2="120.4"/>
+				<line class="st29" x1="798.4" y1="-46.4" x2="631.6" y2="120.4"/>
+				<line class="st29" x1="805.4" y1="-46.4" x2="638.6" y2="120.4"/>
+				<line class="st29" x1="812.3" y1="-46.4" x2="645.5" y2="120.4"/>
+				<line class="st29" x1="819.3" y1="-46.4" x2="652.5" y2="120.4"/>
+				<line class="st29" x1="826.2" y1="-46.4" x2="659.4" y2="120.4"/>
+				<line class="st29" x1="833.2" y1="-46.4" x2="666.4" y2="120.4"/>
+				<line class="st29" x1="840.1" y1="-46.4" x2="673.3" y2="120.4"/>
+				<line class="st29" x1="847.1" y1="-46.4" x2="680.3" y2="120.4"/>
+				<line class="st29" x1="854" y1="-46.4" x2="687.2" y2="120.4"/>
+				<line class="st29" x1="861" y1="-46.4" x2="694.2" y2="120.4"/>
+				<line class="st29" x1="868" y1="-46.4" x2="701.1" y2="120.4"/>
+				<line class="st29" x1="874.9" y1="-46.4" x2="708.1" y2="120.4"/>
+				<line class="st29" x1="881.9" y1="-46.4" x2="715.1" y2="120.4"/>
+				<line class="st29" x1="888.8" y1="-46.4" x2="722" y2="120.4"/>
+				<line class="st29" x1="895.8" y1="-46.4" x2="729" y2="120.4"/>
+				<line class="st29" x1="902.7" y1="-46.4" x2="735.9" y2="120.4"/>
+			</g>
+		</g>
+		<polygon class="st29" points="339.9,437.1 339.9,449.4 350.5,443.3 		"/>
+		<polygon class="st29" points="46.4,95.7 39.9,85.3 34.1,96.2 		"/>
+		<polygon class="st29" points="33.4,33.8 26.9,23.4 21.1,34.2 		"/>
+		<g>
+			<defs>
+				<circle id="SVGID_20_" cx="61.8" cy="378.1" r="48.1"/>
+			</defs>
+			<clipPath id="SVGID_21_">
+				<use xlink:href="#SVGID_20_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st46">
+				<line class="st29" x1="15" y1="297" x2="-151.8" y2="463.8"/>
+				<line class="st29" x1="22" y1="297" x2="-144.8" y2="463.8"/>
+				<line class="st29" x1="28.9" y1="297" x2="-137.9" y2="463.8"/>
+				<line class="st29" x1="35.9" y1="297" x2="-130.9" y2="463.8"/>
+				<line class="st29" x1="42.9" y1="297" x2="-124" y2="463.8"/>
+				<line class="st29" x1="49.8" y1="297" x2="-117" y2="463.8"/>
+				<line class="st29" x1="56.8" y1="297" x2="-110.1" y2="463.8"/>
+				<line class="st29" x1="63.7" y1="297" x2="-103.1" y2="463.8"/>
+				<line class="st29" x1="70.7" y1="297" x2="-96.1" y2="463.8"/>
+				<line class="st29" x1="77.6" y1="297" x2="-89.2" y2="463.8"/>
+				<line class="st29" x1="84.6" y1="297" x2="-82.2" y2="463.8"/>
+				<line class="st29" x1="91.5" y1="297" x2="-75.3" y2="463.8"/>
+				<line class="st29" x1="98.5" y1="297" x2="-68.3" y2="463.8"/>
+				<line class="st29" x1="105.4" y1="297" x2="-61.4" y2="463.8"/>
+				<line class="st29" x1="112.4" y1="297" x2="-54.4" y2="463.8"/>
+				<line class="st29" x1="119.3" y1="297" x2="-47.5" y2="463.8"/>
+				<line class="st29" x1="126.3" y1="297" x2="-40.5" y2="463.8"/>
+				<line class="st29" x1="133.2" y1="297" x2="-33.6" y2="463.8"/>
+				<line class="st29" x1="140.2" y1="297" x2="-26.6" y2="463.8"/>
+				<line class="st29" x1="147.1" y1="297" x2="-19.7" y2="463.8"/>
+				<line class="st29" x1="154.1" y1="297" x2="-12.7" y2="463.8"/>
+				<line class="st29" x1="161.1" y1="297" x2="-5.8" y2="463.8"/>
+				<line class="st29" x1="168" y1="297" x2="1.2" y2="463.8"/>
+				<line class="st29" x1="175" y1="297" x2="8.1" y2="463.8"/>
+				<line class="st29" x1="181.9" y1="297" x2="15.1" y2="463.8"/>
+				<line class="st29" x1="188.9" y1="297" x2="22.1" y2="463.8"/>
+				<line class="st29" x1="195.8" y1="297" x2="29" y2="463.8"/>
+				<line class="st29" x1="202.8" y1="297" x2="36" y2="463.8"/>
+				<line class="st29" x1="209.7" y1="297" x2="42.9" y2="463.8"/>
+				<line class="st29" x1="216.7" y1="297" x2="49.9" y2="463.8"/>
+				<line class="st29" x1="223.6" y1="297" x2="56.8" y2="463.8"/>
+				<line class="st29" x1="230.6" y1="297" x2="63.8" y2="463.8"/>
+				<line class="st29" x1="237.5" y1="297" x2="70.7" y2="463.8"/>
+				<line class="st29" x1="244.5" y1="297" x2="77.7" y2="463.8"/>
+			</g>
+		</g>
+		<polygon class="st29" points="448.5,420 448.5,432.3 459.2,426.2 		"/>
+	</g>
+</g>
+<g id="DESIGNED_BY_FREEPIK">
+</g>
+</svg>

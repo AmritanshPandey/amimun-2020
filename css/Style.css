@@ -1,15 +1,48 @@
+@import url(//db.onlinewebfonts.com/c/b22afb9d7f41ae60d566a48f36cd4fde?family=Copperplate+Gothic+Bold);
+header {
+    background-image: linear-gradient(to left top, #000c39, #001146, #001353, #001560, #00176d);
+     position: relative;/*important*/
+     z-index: 3;/*important*/
+     min-height: 700px;
+     margin: 0 auto;
+   }
+   
+   header:after {
+        background: url(/assets/patterns.png) center  no-repeat;
+       content: "";
+       background-size: 100%;
+       position: absolute;/*important*/
+       opacity: 0.4;
+       bottom: 0;
+       left: 0;
+       right: 0;
+       top: 0;
+       z-index: -1;/*important*/
+       } 
+
+
+
 header{
-    background-color: #242836;
+    background-image: linear-gradient(to left top, #000c39, #001146, #001353, #001560, #00176d);
     background-size: cover;
     background-position: center;
-    min-height: 1000px;
+    
 }
 
-@media screen and (max-width: 670px){
-    header{
-        min-height: 500px;
-    }
+.header-logo{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 25px auto;
 }
+
+.dates{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 5px auto;
+}
+
 
 
 .z-depth-1, nav, .card-panel, .card, .toast, .btn, .btn-large, .btn-small, .btn-floating, .dropdown-content, .collapsible, .sidenav {
@@ -17,7 +50,24 @@ header{
      box-shadow: 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0); 
 }
 
-.banner{
-    width: 40%;
+
+
+.theme{
+    font-family: "Copperplate Gothic Bold";
+    font-weight: 400;
+    font-size: 3rem;
+    color: white;
+    text-transform: uppercase;
 }
 
+.lowercase{
+    text-transform: lowercase !important;
+}
+
+
+/* Media Queries  */
+@media screen and (max-width: 670px){
+    header{
+        min-height: 500px;
+    }
+}
