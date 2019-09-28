@@ -1,0 +1,23 @@
+header{
+    background-color: #242836;
+    background-size: cover;
+    background-position: center;
+    min-height: 1000px;
+}
+
+@media screen and (max-width: 670px){
+    header{
+        min-height: 500px;
+    }
+}
+
+
+.z-depth-1, nav, .card-panel, .card, .toast, .btn, .btn-large, .btn-small, .btn-floating, .dropdown-content, .collapsible, .sidenav {
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0); 
+     box-shadow: 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0); 
+}
+
+.banner{
+    width: 40%;
+}
+
