@@ -1,17 +1,22 @@
 @import url(//db.onlinewebfonts.com/c/b22afb9d7f41ae60d566a48f36cd4fde?family=Copperplate+Gothic+Bold);
 
-.body-content{
-    text-align: left !important;
-}
 
+.body-content{
+    text-align: justify !important;
+}
+nav ul {
+    margin: 0;
+    display: inline-block;
+}
 .header-logo{
     width: 100%;
     height: auto;
     display: block;
-    margin: 25px auto;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .overlap{
-    top: -700px;
     z-index: 10;
     position: relative;
 }
@@ -25,6 +30,12 @@
 .nav-color{
     background: #001149;
     color: white;
+}
+
+.slider .slides {
+    background-color: none !important;
+    margin: 0;
+    height: 400px;
 }
 
 .footer-bg{
@@ -94,9 +105,9 @@
 }
 /* Media Queries  */
 @media screen and (max-width: 670px){
-    header{
+    /* header{
         min-height: 500px;
-    }
+    } */
     header:after {
         display: none;
     }
@@ -175,3 +186,41 @@
     padding: 14px 16px;
 }
 
+
+h4{
+    text-transform: uppercase;
+    color: #001149;
+    font-weight: 300;
+}
+
+h5{
+    text-transform: uppercase;
+    color: #042d4d;
+    font-weight: 300;
+}
+.card.horizontal p{
+    font-weight: 300;
+
+}
+.card.horizontal{
+    background-color: #001149;
+    color: white;
+}
+
+.card.horizontal .card-image {
+    max-width: 40% !important;
+}
+
+.logo-title{
+font-size: 30px;
+font-weight: 400;
+}
+
+.logo-subtitle{
+
+}
+
+.bg-blue{
+    background-color: #001149;
+    color: white;
+}
