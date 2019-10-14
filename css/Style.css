@@ -224,3 +224,11 @@ font-weight: 400;
     background-color: #001149;
     color: white;
 }
+
+.drop-icon{
+    margin-top: 4px;
+}
+
+.committees .card .card-content {
+    padding-top: 0px;
+}
