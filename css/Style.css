@@ -186,6 +186,11 @@ nav ul {
     padding: 14px 16px;
 }
 
+h2{
+    text-transform: uppercase;
+    color: #001149;
+    font-weight: 300;
+}
 
 h4{
     text-transform: uppercase;
@@ -208,7 +213,7 @@ h5{
 }
 
 .card.horizontal .card-image {
-    max-width: 40% !important;
+    max-width: 43% !important;
 }
 
 .logo-title{
@@ -231,4 +236,27 @@ font-weight: 400;
 
 .committees .card .card-content {
     padding-top: 0px;
+    padding-bottom: 30px;
+}
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    
+}
+
+.social-icon{
+    width: 40px;
+    height: 40px;
+}
+
+.footer-copyright{
+    background-color: white !important;
+    color: #001149 !important;
 }
