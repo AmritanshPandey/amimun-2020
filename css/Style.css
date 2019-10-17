@@ -1,13 +1,122 @@
 @import url(//db.onlinewebfonts.com/c/b22afb9d7f41ae60d566a48f36cd4fde?family=Copperplate+Gothic+Bold);
 
 
+@media screen and (max-width: 670px){
+    /* header{
+        min-height: 500px;
+    } */
+    header:after {
+        display: none;
+    }
+
+    .countdown-text{
+        font-size: 12px;
+    }
+    .countdown{
+        height: auto;
+        vertical-align: baseline;
+        width: 90%;
+        background-color: white;
+        color: #00176d;
+        margin: 30px auto 0 auto;
+        padding: 10px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: 200;
+        font-size: 25px;
+        text-transform: uppercase
+    }
+    .brand-logo{
+        display: none;
+    }
+
+    .dates{
+        width: 70%;
+        height: auto;
+        display: block;
+        margin: 10px auto;
+    }
+
+    .theme{
+        font-weight: 200;
+        font-size: 2rem;
+    }
+    
+
+}
+
+/* Extra small devices (phones, up to 480px) */
+@media screen and (max-width: 767px) {
+header {
+    background-image: linear-gradient(to left top, #000c39, #001146, #001353, #001560, #00176d);
+    position: relative;/*important*/
+    z-index: 3;/*important*/
+    min-height: 700px;
+    margin: 0 auto;
+    background-size: cover;
+    background-position: center;
+}
+       
+header:after {
+    background: url(../assets/patterns.png) center  no-repeat;
+    content: "";
+    background-size: 100%;
+    position: absolute;/*important*/
+    opacity: 0.4;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: -1;/*important*/
+} 
+
+.z-depth-1, nav{
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0); 
+     box-shadow: 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0); 
+}
+
+
+
+
+
+.card.horizontal .card-stacked{
+    width: 100% !important;
+}
+
+.collab-logo{
+    width: 100%;
+    padding: 20px;
+}
+h2 {
+    font-size: 2.56rem;
+}
+.row .col.s5 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+}
+
+.row .col.s3 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+}
+
+
+.row .col.s4 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+}
 .body-content{
     text-align: justify;
 }
 .about-club ul li{
     list-style-type: disc !important;
 }
-}
+
 .body-content{
     text-align: justify !important;
 }
@@ -21,14 +130,315 @@ nav ul {
     display: block;
     margin: 0 auto;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 0px;
 }
 .overlap{
     z-index: 10;
     position: relative;
 }
 .dates{
-    width: 40%;
+    width: 85%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+.nav-color{
+    background: transparent;
+    color: white;
+}
+
+.slider .slides {
+    background-color: none !important;
+    margin: 0;
+    height: 400px;
+}
+
+.footer-bg{
+    background: #001149;
+}
+
+.nav-center{
+    text-align: center;
+}
+
+.sponsors{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.sponsor-heading{
+    font-size: 30px;
+    text-align: center !important;
+}
+
+.theme{
+    font-family: "Copperplate Gothic Bold";
+    font-weight: 400;
+    font-size: 3rem;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+.lowercase{
+    text-transform: lowercase !important;
+}
+.countdown-text{
+    font-size: 1rem;
+}
+.countdown{
+    height: auto;
+    vertical-align: baseline;
+    width: 90%;
+    background-color: white;
+    color: #00176d;
+    margin: 30px auto 0 auto;
+    padding: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 200;
+    font-size: 25px;
+    text-transform: uppercase
+}
+
+
+.carousel .indicators .indicator-item {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    height: 8px;
+    width: 8px;
+    margin: 24px 4px;
+    background-color: rgba(0, 76, 218, 0.5) ;
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+    border-radius: 50%;
+}
+
+
+.carousel .indicators .indicator-item.active {
+    background-color: rgb(0, 2, 143);
+}
+
+
+.collab-logos{
+    width: 200px !important;
+    margin: 20px auto !important;
+    align-items: center !important;
+}
+
+
+
+.carousel {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 700px !important;
+}
+
+
+.dropdown-content {
+    background-color: white;
+    margin: 0;
+    display: none;
+    width: auto !important;
+    overflow-y: auto;
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 9999;
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+}
+
+.dropdown-content li>a, .dropdown-content li>span {
+    font-size: 16px;
+    color: #001149;
+    display: block;
+    line-height: 22px;
+    padding: 14px 16px;
+}
+
+h2{
+    text-transform: uppercase;
+    color: #001149;
+    font-weight: 300;
+}
+
+h4{
+    text-transform: uppercase;
+    color: #001149;
+    font-weight: 300;
+}
+
+h5{
+    text-transform: uppercase;
+    color: #042d4d;
+    font-weight: 300;
+}
+.card.horizontal p{
+    font-weight: 300;
+
+}
+.card.horizontal{
+    background-color: #001149;
+    color: white;
+}
+
+.card.horizontal .card-image {
+    max-width: 43% !important;
+}
+
+.logo-title{
+font-size: 30px;
+font-weight: 400;
+}
+
+
+.bg-blue{
+    background-color: #001149;
+    color: white;
+}
+
+.drop-icon{
+    margin-top: 4px;
+}
+
+.committees .card .card-content {
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    
+}
+
+.social-icon{
+    width: 40px;
+    height: 40px;
+}
+
+.footer-copyright{
+    background-color: white !important;
+    color: #001149 !important;
+}
+
+
+.rows {
+    display: -ms-flexbox; /* IE 10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE 10 */
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+
+
+ .row .col.s8 {
+    width: 100%;
+    margin-left: auto;
+    padding: 30px;
+  }
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
+
+  .sg-image{
+    width: 100%;
+}
+.card .card-content {
+    background-color: #001149;
+    color: white;
+}
+.slider{
+    display: none;
+}
+
+}
+
+
+
+
+
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+}
+
+
+
+
+
+
+
+/* tablets/desktops and up ———– */
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+
+
+
+
+
+
+
+/* large desktops and up ———– */
+@media screen and (min-width: 1200px) {
+.sg-content{
+    padding: 20px;
+}
+.sg-image{
+    width: 100%;
+}
+
+.collab-logo{
+    width: 100%;
+}
+.body-content{
+    text-align: justify;
+}
+.about-club ul li{
+    list-style-type: disc !important;
+}
+
+.body-content{
+    text-align: justify !important;
+}
+nav ul {
+    margin: 0;
+    display: inline-block;
+}
+.header-logo{
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+.overlap{
+    z-index: 10;
+    position: relative;
+}
+.dates{
+    width: 50%;
     height: auto;
     display: block;
     margin: 10px auto;
@@ -110,49 +520,7 @@ nav ul {
 .carousel .indicators .indicator-item.active {
     background-color: rgb(0, 2, 143);
 }
-/* Media Queries  */
-@media screen and (max-width: 670px){
-    /* header{
-        min-height: 500px;
-    } */
-    header:after {
-        display: none;
-    }
 
-    .countdown-text{
-        font-size: 12px;
-    }
-    .countdown{
-        height: auto;
-        vertical-align: baseline;
-        width: 90%;
-        background-color: white;
-        color: #00176d;
-        margin: 30px auto 0 auto;
-        padding: 10px;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        font-weight: 200;
-        font-size: 25px;
-        text-transform: uppercase
-    }
-    .brand-logo{
-        display: none;
-    }
-
-    .dates{
-        width: 70%;
-        height: auto;
-        display: block;
-        margin: 10px auto;
-    }
-
-    .theme{
-        font-weight: 200;
-        font-size: 2rem;
-    }
-    
-
-}
 
 .collab-logos{
     width: 200px !important;
@@ -278,7 +646,7 @@ font-weight: 400;
   }
 
   .column {
-    -ms-flex: 50%; /* IE 10 */
+    -ms-flex: 50%;
     flex: 50%;
     padding: 0 4px;
   }
@@ -287,4 +655,4 @@ font-weight: 400;
     margin-top: 8px;
     vertical-align: middle;
   }
-  
+}
