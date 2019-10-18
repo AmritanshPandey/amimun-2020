@@ -1,67 +1,80 @@
 @import url(//db.onlinewebfonts.com/c/b22afb9d7f41ae60d566a48f36cd4fde?family=Copperplate+Gothic+Bold);
 
+p{
+    font-weight: 300 !important;
+}
 
-@media screen and (max-width: 670px){
-    /* header{
-        min-height: 500px;
-    } */
-    header:after {
-        display: none;
-    }
 
-    .countdown-text{
-        font-size: 12px;
-    }
-    .countdown{
-        height: auto;
-        vertical-align: baseline;
-        width: 90%;
-        background-color: white;
-        color: #00176d;
-        margin: 30px auto 0 auto;
-        padding: 10px;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        font-weight: 200;
-        font-size: 25px;
-        text-transform: uppercase
-    }
-    .brand-logo{
-        display: none;
-    }
+.sidenav-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    height: 120vh;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 10 !important;
+    display: none;
+}
 
-    .dates{
-        width: 70%;
-        height: auto;
-        display: block;
-        margin: 10px auto;
-    }
+.card{
+    background-color: #00176d;
+    color: white !important;
+}
 
-    .theme{
-        font-weight: 200;
+
+/* Extra small devices (phones, up to 480px) */
+@media screen and (max-width: 991px) {
+
+    .title{
+        text-transform: uppercase;
+        color: #ffffff;
+        font-weight: 400;
         font-size: 2rem;
+        text-align: center;
+    
+    }
+    
+    .sub-title{
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+    }
+    
+    .advisory-image{
+        width: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: white;
+    }
+    
+    .advisory .body-content{
+        padding: 0;
+    }
+    
+    
+    .sidenav{
+        
     }
     
 
-}
-
-/* Extra small devices (phones, up to 480px) */
-@media screen and (max-width: 767px) {
-header {
+.banner {
     background-image: linear-gradient(to left top, #000c39, #001146, #001353, #001560, #00176d);
     position: relative;/*important*/
     z-index: 3;/*important*/
-    min-height: 700px;
+    min-height: 500px;
     margin: 0 auto;
     background-size: cover;
     background-position: center;
 }
        
-header:after {
+.banner:after {
     background: url(../assets/patterns.png) center  no-repeat;
     content: "";
     background-size: 100%;
     position: absolute;/*important*/
-    opacity: 0.4;
+    opacity: 1;
     bottom: 0;
     left: 0;
     right: 0;
@@ -69,10 +82,6 @@ header:after {
     z-index: -1;/*important*/
 } 
 
-.z-depth-1, nav{
-    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0); 
-     box-shadow: 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0), 0 0 0 0 rgba(0,0,0,0); 
-}
 
 
 
@@ -110,9 +119,7 @@ h2 {
     left: auto;
     right: auto;
 }
-.body-content{
-    text-align: justify;
-}
+
 .about-club ul li{
     list-style-type: disc !important;
 }
@@ -132,7 +139,7 @@ nav ul {
     padding-top: 20px;
     padding-bottom: 0px;
 }
-.overlap{
+.banner-content{
     z-index: 10;
     position: relative;
 }
@@ -144,8 +151,12 @@ nav ul {
 }
 
 .nav-color{
-    background: transparent;
-    color: white;
+    background: white;
+    
+}
+
+nav a {
+    color: #00176d;
 }
 
 .slider .slides {
@@ -155,7 +166,7 @@ nav ul {
 }
 
 .footer-bg{
-    background: #001149;
+    background: #00176d;
 }
 
 .nav-center{
@@ -254,7 +265,7 @@ nav ul {
 
 .dropdown-content li>a, .dropdown-content li>span {
     font-size: 16px;
-    color: #001149;
+    color: #00176d;
     display: block;
     line-height: 22px;
     padding: 14px 16px;
@@ -262,13 +273,13 @@ nav ul {
 
 h2{
     text-transform: uppercase;
-    color: #001149;
+    color: #00176d;
     font-weight: 300;
 }
 
 h4{
     text-transform: uppercase;
-    color: #001149;
+    color: #00176d;
     font-weight: 300;
 }
 
@@ -277,12 +288,9 @@ h5{
     color: #042d4d;
     font-weight: 300;
 }
-.card.horizontal p{
-    font-weight: 300;
 
-}
 .card.horizontal{
-    background-color: #001149;
+    background-color: #00176d;
     color: white;
 }
 
@@ -297,7 +305,7 @@ font-weight: 400;
 
 
 .bg-blue{
-    background-color: #001149;
+    background-color: #00176d;
     color: white;
 }
 
@@ -329,7 +337,7 @@ font-weight: 400;
 
 .footer-copyright{
     background-color: white !important;
-    color: #001149 !important;
+    color: #00176d !important;
 }
 
 
@@ -362,36 +370,14 @@ font-weight: 400;
     width: 100%;
 }
 .card .card-content {
-    background-color: #001149;
+    background-color: #00176d;
     color: white;
 }
-.slider{
-    display: none;
-}
-
-}
-
-
-
-
-
-
-
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) and (max-width: 991px) {
 
 
 }
 
 
-
-
-
-
-
-/* tablets/desktops and up ———– */
-@media (min-width: 992px) and (max-width: 1199px) {
-}
 
 
 
@@ -400,7 +386,42 @@ font-weight: 400;
 
 
 /* large desktops and up ———– */
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 992px) {
+
+
+    .title{
+        text-transform: uppercase;
+        color: white;
+        font-weight: 400;
+        font-size: 2rem;
+        padding: 10px;
+    
+    }
+    
+    .sub-title{
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 10px;
+    color: white;
+    }
+    
+    .advisory-image{
+        width: 100%;
+        padding-top: 10px;
+    }
+    
+    .advisory .body-content{
+        padding: 10px;
+        padding-top: 5px !important;
+        margin-top: 0;
+    }
+    
+    .advisory .card{
+        background-color: #00176d;
+        color: white;
+    }
+    
+    
 .sg-content{
     padding: 20px;
 }
@@ -411,9 +432,7 @@ font-weight: 400;
 .collab-logo{
     width: 100%;
 }
-.body-content{
-    text-align: justify;
-}
+
 .about-club ul li{
     list-style-type: disc !important;
 }
@@ -433,7 +452,7 @@ nav ul {
     padding-top: 20px;
     padding-bottom: 0px;
 }
-.overlap{
+.banner-content{
     z-index: 10;
     position: relative;
 }
@@ -445,7 +464,7 @@ nav ul {
 }
 
 .nav-color{
-    background: #001149;
+    background: #00176d;
     color: white;
 }
 
@@ -456,7 +475,7 @@ nav ul {
 }
 
 .footer-bg{
-    background: #001149;
+    background: #00176d;
 }
 
 .nav-center{
@@ -555,7 +574,7 @@ nav ul {
 
 .dropdown-content li>a, .dropdown-content li>span {
     font-size: 16px;
-    color: #001149;
+    color: #00176d;
     display: block;
     line-height: 22px;
     padding: 14px 16px;
@@ -563,13 +582,13 @@ nav ul {
 
 h2{
     text-transform: uppercase;
-    color: #001149;
+    color: #00176d;
     font-weight: 300;
 }
 
 h4{
     text-transform: uppercase;
-    color: #001149;
+    color: #00176d;
     font-weight: 300;
 }
 
@@ -578,12 +597,9 @@ h5{
     color: #042d4d;
     font-weight: 300;
 }
-.card.horizontal p{
-    font-weight: 300;
 
-}
 .card.horizontal{
-    background-color: #001149;
+    background-color: #00176d;
     color: white;
 }
 
@@ -601,7 +617,7 @@ font-weight: 400;
 }
 
 .bg-blue{
-    background-color: #001149;
+    background-color: #00176d;
     color: white;
 }
 
@@ -633,7 +649,7 @@ font-weight: 400;
 
 .footer-copyright{
     background-color: white !important;
-    color: #001149 !important;
+    color: #00176d !important;
 }
 
 
