@@ -29,8 +29,6 @@
         <div class="navbar-fixed">
             <nav class="nav-wrapper nav-color center">
                 <div class="container">
-                    
-
                     <a href="" class="sidenav-trigger" data-target="mobile-menu">
                         <i class="material-icons">menu</i>
                     </a>
@@ -89,9 +87,120 @@
     <!--Navigation Ends Here-->
 
 
-<div class="container">
-    
-</div>
+    <div class="container">
+        <h2 class="header center">Internal Press Application</h2>
+        <div style="height: 20px"></div>
+        <!-- Delegate Form Starts Here -->
+        <div class="container">
+            <form class="col s12">
+                <div class="row">
+                    <div class="input-field col s12">
+                        <input placeholder="Enter Full Name" id="fname" type="text" class="validate">
+                        <label for="fname">Full Name</label>
+                    </div>
+                    <div class="input-field col s12">
+                        <input placeholder="Enter Email ID" id="email" type="text" class="validate">
+                        <label for="email">Email ID</label>
+                    </div>
+                    <div class="input-field col s12">
+                        <input placeholder="Enter Phone Number" id="phone" type="text" class="validate">
+                        <label for="phone">Phone Number</label>
+                    </div>
+                    <div class="input-field col s12">
+                        <input placeholder="Enter College Name or Institute Name" id="college" type="text"
+                            class="validate">
+                        <label for="college">College/Institute Name</label>
+                    </div>
+                    <div class="input-field col s12">
+                        <input placeholder="Enter University Name" id="uni" type="text" class="validate">
+                        <label for="uni">University Name</label>
+                    </div>
+                    <div class="input-field col s12">
+                        <input placeholder="Enter City" id="city" type="text" class="validate">
+                        <label for="city">City</label>
+                    </div>
+                    <div class="input-field col s12">
+                        <input placeholder="Enter State" id="state" type="text" class="validate">
+                        <label for="state">State</label>
+                    </div>
+
+                    <div class="input-field col s12">
+                        <input placeholder="Enter Country" id="country" type="text" class="validate">
+                        <label for="country">Country</label>
+                    </div>
+
+                    <div class="input-field col s12">
+                        <input placeholder="Enter Course" id="course" type="text" class="validate">
+                        <label for="course">Course</label>
+                    </div>
+
+
+                    <div class="input-field col s12">
+                        <span class="grey-text">Year</span>
+                        <p>
+                            <label>
+                                <input name="group1" type="radio" />
+                                <span>1st Year</span>
+                            </label>
+                        </p>
+                        <p>
+                            <label>
+                                <input name="group1" type="radio" />
+                                <span>2nd Year</span>
+                            </label>
+                        </p>
+                        <p>
+                            <label>
+                                <input name="group1" type="radio" />
+                                <span>3rd Year</span>
+                            </label>
+                        </p>
+                        <p>
+                            <label>
+                                <input name="group1" type="radio" />
+                                <span>4th Year</span>
+                            </label>
+                        </p>
+                        <p>
+                            <label>
+                                <input name="group1" type="radio" />
+                                <span>5th Year</span>
+                            </label>
+                        </p>
+                    </div>
+                    <!--Committee Preference 1-->
+                    <div class="input-field col s12">
+                        <select class="icons">
+                            <option value="" disabled selected>Choose your option</option>
+                            <option value="" data-icon="assets/com/unhrc.png">United Nations Human Rights Council</option>
+                            <option value="" data-icon="images/office.jpg">United Nations Futuristic General Assembly</option>
+                            <option value="" data-icon="images/yuna.jpg">United Nations Historic Security Council</option>
+                            <option value="" data-icon="images/yuna.jpg">United Nations Commission on Status of Women</option>
+                            <option value="" data-icon="images/yuna.jpg">United Nations Commission on Narcotics Drugs</option>
+                            <option value="" data-icon="images/yuna.jpg">World Trade Organization</option>
+                            <option value="" data-icon="images/yuna.jpg">Continuous Crisis Committee</option>
+                            <option value="" data-icon="images/yuna.jpg">All India Political Parties Meet</option>
+                        </select>
+                        <label>Images in select</label>
+                    </div>
+
+                    <!--Allotment Preference 1-->
+                    <div class="input-field col s12">
+                        <select>
+                            <option value="" disabled selected>Choose your option</option>
+                            <option value="1">Option 1</option>
+                            <option value="2">Option 2</option>
+                            <option value="3">Option 3</option>
+                        </select>
+                        <label>Materialize Select</label>
+                    </div>
+
+                </div>
+            </form>
+        </div>
+
+
+    </div>
 
 
 
@@ -102,7 +211,8 @@
 
 
 
-    
+
+
     <footer class="page-footer footer-bg">
         <div class="container">
             <div class="row">
@@ -114,13 +224,13 @@
                                 Secretary General<br>
                                 +91 85275 25035<br>
                                 sgamimun@gmail.com
-                                </a><br>
+                            </a><br>
                             <div style="height: 30px"></div>
                             <a class="grey-text text-lighten-3" href="#!">Aakarsh Shrivastava<br>
                                 Dept. Secretary General<br>
                                 +91 88001 78140<br>
                                 dsgamimun@gmail.com
-                               </a>
+                            </a>
                         </div>
                         <div class="col s6">
                             <a class="grey-text text-lighten-3" href="#!">Karan Kanodia
@@ -128,7 +238,7 @@
                                 Director General<br>
                                 +91 98103 44347<br>
                                 dgamimun@gmail.com
-                                </a>
+                            </a>
 
                             <div style="height: 30px"></div>
                             <a class="grey-text text-lighten-3" href="#!">Manan Sagar<br>
@@ -181,99 +291,16 @@
         const sideNav = document.querySelector('.sidenav');
         M.Sidenav.init(sideNav, {});
 
-        //Parallax Effect
-        const parallax = document.querySelectorAll('.parallax');
-        M.Parallax.init(parallax, {});
-
-        //Carousel 
-        const carousel = document.querySelector('.carousel');
-        M.Carousel.init(carousel, {
-            indicators: true,
-            height: 1000,
-            fullWidth: true,
-            transition: 500,
-            interval: 2000,
-        });
-
-
-        //Slider 
-        const slider = document.querySelectorAll('.slider');
-        M.Slider.init(slider, {
-            height: 700,
-            fullWidt: true,
-            transition: 500,
-            interval: 3000,
-            indicators: false,
-        });
+        //Select Option
+        const select = document.querySelectorAll('select');
+        M.FormSelect.init(select, {})
 
         // Dropdown
         const dropdown = document.querySelectorAll('.dropdown-trigger');
         M.Dropdown.init(dropdown, {});
     </script>
 
-    <!--Count Down JavaScript-->
-    <script>
-        // Date and Time for the count down
-        var countDownDate = new Date("Jan 19, 2020 12:00:00").getTime();
-
-        // Update the count down every 1 second
-        var x = setInterval(function () {
-
-            // Get today's date and time
-            var now = new Date().getTime();
-
-            // Find the distance between now and the count down date
-            var distance = countDownDate - now;
-
-            // Time calculations for days, hours, minutes and seconds
-            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-            // Output the result in an element with id="demo"
-            document.getElementById("countdown").innerHTML = days + "<span class='countdown-text'> Days </span>" + hours + "<span class='countdown-text'> Hours </span>"
-                + minutes + "<span class='countdown-text'> Minutes </span>" + seconds + "<span class='countdown-text'> Seconds </span>";
-
-            // If the count down is over, write some text 
-            if (distance < 0) {
-                clearInterval(x);
-                document.getElementById("countdown").innerHTML = "EXPIRED";
-            }
-        }, 1000);
-    </script>
-
-    <!-- Countdown for Mobile View -->
-    <script>
-        // Date and Time for the count down
-        var countDownDate = new Date("Jan 19, 2020 12:00:00").getTime();
-
-        // Update the count down every 1 second
-        var x = setInterval(function () {
-
-            // Get today's date and time
-            var now = new Date().getTime();
-
-            // Find the distance between now and the count down date
-            var distance = countDownDate - now;
-
-            // Time calculations for days, hours, minutes and seconds
-            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-            // Output the result in an element with id="demo"
-            document.getElementById("countdown2").innerHTML = days + "<span class='countdown-text'> Days </span>" + hours + "<span class='countdown-text'> Hours </span>"
-                + minutes + "<span class='countdown-text'> Minutes </span><br>" + seconds + "<span class='countdown-text'> Seconds </span>";
-
-            // If the count down is over, write some text 
-            if (distance < 0) {
-                clearInterval(x);
-                document.getElementById("countdown2").innerHTML = "EXPIRED";
-            }
-        }, 1000);
-    </script>
+    
 </body>
 
 </html>
