@@ -31,13 +31,15 @@ p{
     width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: #008CBA;
+    background-color: #00176d;
   }
 
   .reveal-text {
     color: white;
-    font-size: 20px;
+    font-size: 16px;
     position: absolute;
+    width: 80%;
+    font-weight: 200;
     top: 50%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
@@ -46,6 +48,49 @@ p{
     text-align: center;
   }
 
+  .committees .card:hover .reveal{
+    opacity: 0.9;
+
+  }
+.eb-card-subtitle{
+    color: #00176d;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 200;
+    
+}
+
+.eb .cards-title{
+    z-index: 20;
+    margin-bottom: 0px;
+    text-align: center !important;
+    font-size: 30px;
+    padding-bottom: 30px;
+    bottom: 30px;
+    position: relative;
+    font-weight: 200;
+}
+
+.eb .card-content{
+    padding-top: 30px !important;
+}
+.eb h4{
+    margin-top: 0;
+}
+.eb-box{
+    margin: 0 auto;
+    width: 300px;
+    display: block;
+
+}
+.eb-logo{
+    width: 100%;
+}
+.eb-text{
+    font-weight: 200;
+    font-size: 20px;
+
+}
 /* Extra small devices (phones, up to 480px) */
 @media screen and (max-width: 991px) {
 
@@ -68,7 +113,6 @@ p{
     color: #fff;
     position: absolute;
     bottom: 0;
-    left: 0;
     max-width: 100%;
     padding: 10px;
     font-size: 15px; 
@@ -82,7 +126,6 @@ p{
     color: #fff;
     position: absolute;
     bottom: 0;
-    left: 0;
     max-width: 100%;
     padding: 10px;
     font-size: 15px; 
@@ -96,7 +139,6 @@ p{
     color: #fff;
     position: absolute;
     bottom: 0;
-    left: 0;
     max-width: 100%;
     padding: 10px;
     font-size: 15px; 
@@ -139,8 +181,21 @@ p{
     height: 40%;
     z-index: 10;
     background: rgb(198,198,198);
-    background: linear-gradient(180deg, rgba(198,198,198,0) 0%, rgba(0,23,109,1) 77%);
-    
+    background: linear-gradient(180deg, rgba(198,198,198,0) 0%, rgba(0,23,109,1) 77%); 
+}
+
+
+.eb-gradient::after {
+
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 30%;
+    z-index: 10;
+    background: rgb(198,198,198);
+    background: linear-gradient(180deg, rgba(198,198,198,0) 0%, rgba(0,23,109,1) 77%); 
 }
 
     .title{
