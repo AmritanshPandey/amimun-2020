@@ -4,17 +4,6 @@ p{
     font-weight: 300 !important;
 }
 
-.sidenav-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    opacity: 0;
-    height: 120vh;
-    background-color: rgba(0,0,0,0.5);
-    z-index: 10 !important;
-    display: none;
-}
 
 .card{
     background-color: #00176d;
@@ -50,51 +39,84 @@ p{
 
   .committees .card:hover .reveal{
     opacity: 0.9;
-
   }
-.eb-card-subtitle{
-    color: #00176d;
-    font-size: 30px;
-    text-transform: uppercase;
-    font-weight: 200;
-    
-}
 
-.eb .cards-title{
-    z-index: 20;
-    margin-bottom: 0px;
-    text-align: center !important;
-    font-size: 30px;
-    padding-bottom: 30px;
-    bottom: 30px;
-    position: relative;
-    font-weight: 200;
-}
-
-.eb .card-content{
-    padding-top: 30px !important;
-}
-.eb h4{
-    margin-top: 0;
-}
-.eb-box{
-    margin: 0 auto;
-    width: 300px;
-    display: block;
-
-}
-.eb-logo{
-    width: 100%;
-}
-.eb-text{
-    font-weight: 200;
-    font-size: 20px;
-
-}
 /* Extra small devices (phones, up to 480px) */
 @media screen and (max-width: 991px) {
 
+.row .col .s2{
+    width: 100%;
+}
 
+    .eb-card-subtitle{
+        color: #00176d;
+        font-size: 30px;
+        text-transform: uppercase;
+        font-weight: 200;   
+    }
+    
+    
+    .eb-card-title{
+        color: #00176d;
+        font-size: 35px;
+        text-transform: uppercase;
+        font-weight: 200;   
+    }
+    
+    .eb .cards-title{
+        z-index: 20;
+        margin-bottom: 0px;
+        text-align: center !important;
+        font-size: 30px;
+        padding-bottom: 30px;
+        bottom: 30px;
+        position: relative;
+        font-weight: 200;
+    }
+    
+    .eb .card-content{
+        padding-top: 30px !important;
+    }
+    .eb h4{
+        margin-top: 0;
+    }
+    .eb-box{
+        margin: 0 auto;
+        width: 300px;
+        display: block;
+    
+    }
+    .eb-logo{
+        width: 100%;
+    }
+    .eb-text{
+        font-weight: 200;
+        font-size: 20px;
+    
+    }
+    .eb-committees .card .card-image {
+        position: relative;
+        padding: 10px;
+        padding-bottom: 0;
+    }
+    
+    
+    
+    .eb-committees .card .card-content {
+        padding: 10px;
+        padding-top: 0;
+    }
+    .sidenav-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        opacity: 0;
+        height: 120vh;
+        background-color: rgba(0,0,0,0.5);
+        z-index: 10 !important;
+        display: none;
+    }
     
 .card-subtitle{
     color: #fff;
@@ -209,6 +231,10 @@ p{
     .row .col.s6{
         width: 100%;
     }
+
+    footer .row .col.s6{
+        width: 50%;
+    }
     .container2{
         margin: 0 auto;
         max-width: 1280px;
@@ -283,13 +309,13 @@ p{
 h2 {
     font-size: 2.56rem;
 }
-.row .col.s5 {
+
+.row .col.s2 {
     width: 100%;
     margin-left: auto;
     left: auto;
     right: auto;
 }
-
 .row .col.s3 {
     width: 100%;
     margin-left: auto;
@@ -297,8 +323,14 @@ h2 {
     right: auto;
 }
 
-
 .row .col.s4 {
+    width: 100%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+}
+
+.row .col.s5 {
     width: 100%;
     margin-left: auto;
     left: auto;
@@ -563,6 +595,18 @@ font-weight: 400;
 }
 
 
+.sidenav-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    height: 120vh;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 10 !important;
+    display: none;
+}
+
 
 
 
@@ -573,6 +617,82 @@ font-weight: 400;
 /* large desktops and up ———– */
 @media screen and (min-width: 992px) {
 
+    .eb-card-subtitle{
+        color: #00176d;
+        font-size: 30px;
+        text-transform: uppercase;
+        font-weight: 200;   
+    }
+    
+
+    .eb-container{
+        margin: 0 25%;
+        max-width: 1280px;
+        width: 100%;
+    }
+    
+    .eb-card-title{
+        color: #00176d;
+        font-size: 35px;
+        text-transform: uppercase;
+        font-weight: 200;   
+    }
+    
+    .eb .cards-title{
+        z-index: 20;
+        margin-bottom: 0px;
+        text-align: center !important;
+        font-size: 30px;
+        padding-bottom: 30px;
+        bottom: 30px;
+        position: relative;
+        font-weight: 200;
+    }
+    
+    .eb .card-content{
+        padding-top: 30px !important;
+    }
+    .eb h4{
+        margin-top: 0;
+    }
+    .eb-box{
+        margin: 0 auto;
+        width: 300px;
+        display: block;
+    
+    }
+    .eb-logo{
+        width: 100%;
+    }
+    .eb-text{
+        font-weight: 200;
+        font-size: 20px;
+    }
+
+    
+    .eb-committees .card .card-image {
+        position: relative;
+        padding: 10px;
+        padding-bottom: 0;
+    }
+    
+    
+    
+    .eb-committees .card .card-content {
+        padding: 10px;
+        padding-top: 0;
+    }
+    .sidenav-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        opacity: 0;
+        height: 120vh;
+        background-color: rgba(0,0,0,0.5);
+        z-index: 10 !important;
+        display: none;
+    }
 
     .title{
         text-transform: uppercase;
