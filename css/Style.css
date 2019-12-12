@@ -832,6 +832,11 @@ font-weight: 400;
     }
     
 
+    .messages .body-content{
+        padding: 10px;
+        padding-top: 5px !important;
+        margin-top: 0;
+    }
 
     
 .sg-content{
