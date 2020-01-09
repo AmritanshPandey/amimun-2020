@@ -4,6 +4,10 @@ p{
     font-weight: 300 !important;
 }
 
+.card-action{
+    text-align: center !important;
+    color: white !important;
+}
 
 .card{
     background-color: #00176d;
@@ -265,9 +269,7 @@ p{
     }
     
     
-    .sidenav{
-        
-    }
+    
     
 
 .banner {
@@ -616,6 +618,11 @@ font-weight: 400;
 
 /* large desktops and up ———– */
 @media screen and (min-width: 992px) {
+
+    .collab-container{
+        margin: 0 auto;
+        width: 50%;
+    }
 
     .eb-card-subtitle{
         color: #00176d;
@@ -1029,9 +1036,7 @@ font-size: 30px;
 font-weight: 400;
 }
 
-.logo-subtitle{
 
-}
 
 .bg-blue{
     background-color: #00176d;
